@@ -81,7 +81,7 @@ const Header = (props) => {
                 </li>
                 <li>
                   <div className="gradient-button">
-                    <a  href="/" id="modal_trigger" onClick={() => handleShow()}>
+                    <a  href="#" id="modal_trigger" onClick={() => handleShow()}>
                       <i className="fa fa-sign-in-alt"></i> Sign In Now
                     </a>
                   </div>

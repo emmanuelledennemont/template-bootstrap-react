@@ -52,14 +52,14 @@ const LoginModal = (props) => {
                     </a>
                   </div>
                   <div className="one_half last">
-                    <a href="/" className="btn btn_red">
+                    <a href="#" className="btn btn_red">
                       Login
                     </a>
                   </div>
                 </div>
               </form>
 
-              <a href="/" className="forgot_password">
+              <a href="#" className="forgot_password">
                 Forgot password?
               </a>
             </div>
@@ -95,7 +95,7 @@ const LoginModal = (props) => {
                     </a>
                   </div>
                   <div className="one_half last">
-                    <a href="/" className="btn btn_red">
+                    <a href="#" className="btn btn_red">
                       Register
                     </a>
                   </div>
@@ -126,7 +126,7 @@ const LoginModal = (props) => {
 
               <div className="action_btns">
                 <div className="one_half">
-                  <a href="/"
+                  <a href="#"
                     onClick={() => handleViewChange("Login")}
                     id="login_form"
                     className="btn"
@@ -135,7 +135,7 @@ const LoginModal = (props) => {
                   </a>
                 </div>
                 <div className="one_half last">
-                  <a href="/"
+                  <a href="#"
                     onClick={() => handleViewChange("Register")}
                     id="register_form"
                     className="btn"

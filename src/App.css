@@ -1035,7 +1035,7 @@ Banner Style
 }
 
 .main-banner .left-content .white-button a {
-  background-color: #4b8ef1;
+  background-color: #042a61;
   color: #fff !important;
 }
 
@@ -1862,7 +1862,7 @@ a.btn_red {
 }
 
 .social_login .social_box {
-  display: block;
+  display: flex;
   clear: both;
   padding: 10px;
   margin-bottom: 10px;
